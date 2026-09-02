@@ -8,7 +8,7 @@ CRUD en C# con ASP NET CORE
 - Entity Framework Core
 - SQLite
 - Swagger para documentación de la API
-- 
+
 ## Cómo correr el proyecto
 1. Clona el repositorio
 2. Abre la solución en Visual Studio
